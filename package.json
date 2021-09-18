@@ -1,5 +1,5 @@
 {
-  "name": "nyc-config-backend",
+  "name": "nyc-config-rolo-backend",
   "version": "1.0.0",
   "description": "Configuration for NYC (istanbul) code coverage tool",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rolo-chat/nyc-config-backend.git"
+    "url": "git+https://github.com/rolo-chat/nyc-config-rolo-backend.git"
   },
   "author": "Rolo Innovation Inc.",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/rolo-chat/nyc-config-backend/issues"
+    "url": "https://github.com/rolo-chat/nyc-config-rolo-backend/issues"
   },
-  "homepage": "https://github.com/rolo-chat/nyc-config-backend#readme"
+  "homepage": "https://github.com/rolo-chat/nyc-config-rolo-backend#readme"
 }
