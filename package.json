@@ -1,5 +1,5 @@
 {
-  "name": "@rolo-chat/nyc-config-backend",
+  "name": "nyc-config-backend",
   "version": "1.0.0",
   "description": "Configuration for NYC (istanbul) code coverage tool",
   "main": "index.js",
